@@ -2,9 +2,9 @@
 ## Hello World in five differents languajes
 
 - [C](./helloworld.c)
-- [JS](./helloworld.js)
-- [PY](./helloworld.py)
-
+- [JavaScript](./helloworld.js)
+- [Python](./helloworld.py)
+- [Bash](./helloworld.sh)
 
 
 
